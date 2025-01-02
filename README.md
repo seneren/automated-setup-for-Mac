@@ -102,9 +102,8 @@ automated-setup-for-Mac/
 
 If you’d like to contribute to this project, feel free to open an issue or submit a pull request. Contributions are welcome!
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+# This script is based on the original work by Mark R. Florkowski from https://github.com/markflorkowski.
+# Modifications have been made to the original script to include additional configurations and adjustments.
 
 ## Download README.md
 
