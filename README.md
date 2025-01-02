@@ -102,16 +102,5 @@ automated-setup-for-Mac/
 
 If you’d like to contribute to this project, feel free to open an issue or submit a pull request. Contributions are welcome!
 
-# This script is based on the original work by Mark R. Florkowski from https://github.com/markflorkowski.
-# Modifications have been made to the original script to include additional configurations and adjustments.
-
-## Download README.md
-
-To download this `README.md` file, click the link below:
-
-[Download README.md](https://raw.githubusercontent.com/seneren/automated-setup-for-Mac/main/README.md)
-
-### How to Download
-1. Click the **Download README.md** link above.
-2. The file will open in your browser.
-3. Right-click anywhere on the page and select **Save As** (or use `Ctrl+S` / `Cmd+S`) to save the file to your computer.
+This script is based on the original work by [Mark R. Florkowski](https://github.com/markflorkowski) from the [file](https://github.com/markflorkowski/markflorkowski/blob/main/public/setup.sh).
+Modifications have been made to the original script to include additional configurations and adjustments.
