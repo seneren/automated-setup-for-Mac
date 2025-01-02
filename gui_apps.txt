@@ -1,0 +1,12 @@
+brave-browser Brave Browser
+discord Discord
+visual-studio-code Visual Studio Code
+spotify Spotify
+whatsapp WhatsApp
+raycast Raycast
+shottr Shottr
+google-chrome Google Chrome
+firefox Firefox
+microsoft-outlook Microsoft Outlook
+zoom Zoom
+telegram Telegram
