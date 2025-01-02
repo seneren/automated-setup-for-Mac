@@ -1,6 +1,6 @@
 # Automated Setup for Mac
 
-This repository contains a **Bash script** to automate the setup of a macOS development environment. The script installs essential tools, applications, and configurations, making it easy to set up a new Mac quickly and consistently.
+This repository contains a **Bash script** to automate the setup of a macOS, for _casual_ developers. The script installs essential tools, applications, and configurations, making it easy to set up a new Mac quickly and consistently.
 
 ## Features
 
